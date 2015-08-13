@@ -1,0 +1,13 @@
+[
+{
+	"id" : "flowtype",
+	"caption": "FlowType",
+	"children":
+	[
+	{
+		"caption" : "Run Flow",
+		"command" : "example"
+	}
+	]
+}
+]

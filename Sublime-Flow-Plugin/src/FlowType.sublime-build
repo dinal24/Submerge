@@ -1,0 +1,6 @@
+{
+    "cmd" : ["/usr/local/bin/flow", "$file"],
+    "working_dir" : "${project_path:${folder}",
+    "selector" : "*.js",
+    "shell": true
+}
